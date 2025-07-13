@@ -15,6 +15,7 @@ public class Arithmetic {
         System.out.println("Multiplication of two numbers is :" + (num1 * num2));
         System.out.println("Division of two numbers is :" + num1 / num2);
         System.out.println("Remainder is :" + (num1 % num2));
+        System.out.println("Remainder is :" + (num1 % num2));
 
 
     }
